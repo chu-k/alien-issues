@@ -25,31 +25,8 @@ body:
       required: true
 
   - type: textarea
-    id: alternatives
-    attributes:
-      label: Alternatives considered
-      description: Any other approaches you've thought about?
-
-  - type: dropdown
-    id: area
-    attributes:
-      label: Area
-      options:
-        - Frontend (charts / filters / UI)
-        - Backend (ingestion / parsing)
-        - Database / migrations
-        - New subreddit support
-        - Other
-    validations:
-      required: true
-
-  - type: textarea
     id: screenshots
     attributes:
       label: Mockups / screenshots
       description: Any wireframes, sketches, or reference screenshots that illustrate the idea.
 
-  - type: textarea
-    id: extra
-    attributes:
-      label: Additional context

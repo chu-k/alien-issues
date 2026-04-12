@@ -42,21 +42,3 @@ body:
     attributes:
       label: Screenshots
       description: If applicable, paste or drag-in screenshots to help explain the problem.
-
-  - type: dropdown
-    id: area
-    attributes:
-      label: Area
-      options:
-        - Frontend (charts / filters / UI)
-        - Backend (ingestion / parsing)
-        - Database / migrations
-        - Other
-    validations:
-      required: false
-
-  - type: textarea
-    id: extra
-    attributes:
-      label: Additional context
-      description: Any other context — browser, OS, data anomaly, etc.
