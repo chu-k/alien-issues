@@ -1,5 +1,7 @@
 # alienalienalien
-camelcamelcamel for Reddit community marketplaces.
+https://alienalienalien.com/
+
+Item tracker for Reddit community marketplaces.
 
 ### Currently Tracking
 - hardwareswap
