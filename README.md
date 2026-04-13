@@ -1,10 +1,11 @@
 # alienalienalien
 https://alienalienalien.com/
 
-Item tracker for Reddit community marketplaces.
+A community marketplace price tracker.
 
 ### Currently Tracking
 - hardwareswap
+- photomarket
 
 ## Roadmap
 - Timeseries plotting
@@ -13,6 +14,5 @@ Item tracker for Reddit community marketplaces.
 ### Subreddits
 (Help me prioritize by opening an issue)
 - mechmarket
-- photomarket
-- geartrade
+- ULgeartrade
 - watchexchange
