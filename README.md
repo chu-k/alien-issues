@@ -4,6 +4,7 @@ https://alienalienalien.com/
 A community marketplace price tracker.
 
 ## Features
+- Basic search and filtering
 - Similar items price trend plotting
 
 ### Currently Tracking
