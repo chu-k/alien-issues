@@ -3,12 +3,14 @@ https://alienalienalien.com/
 
 A community marketplace price tracker.
 
+## Features
+- Similar items price trend plotting
+
 ### Currently Tracking
 - hardwareswap
 - photomarket
 
 ## Roadmap
-- Timeseries plotting
 - Price alerts
 
 ### Subreddits
